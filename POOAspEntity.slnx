@@ -1,3 +1,6 @@
 <Solution>
   <Project Path="P5AspEntity/P5AspEntity.csproj" />
+  <Project Path="P8Maui/P8Maui.csproj" Id="d3667650-2601-4fc0-93cb-445a3107e5ed">
+    <Deploy Solution="Debug|*" />
+  </Project>
 </Solution>
